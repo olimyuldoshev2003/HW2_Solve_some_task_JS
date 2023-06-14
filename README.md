@@ -1,1 +1,1 @@
-# HW2_Solve_some_task_JS
+# HW2_Solve_some_tasks_JS
